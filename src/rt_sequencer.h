@@ -1,0 +1,1 @@
+int spinclock_init();
